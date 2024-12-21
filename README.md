@@ -25,4 +25,4 @@ Attributes on orders and shipments, such as when the order was shipped and recei
 
 **Data Set**
 
-This dataset provided is a part of the [Data Analytics Essentials](https://www.mygreatlearning.com/data-analytics-essentials-online-course) certification course offered by the McCombs School of Business at the University of Texas at Austin.
+The dataset used for the analysis is a part of the [Data Analytics Essentials](https://www.mygreatlearning.com/data-analytics-essentials-online-course) certification course offered by the McCombs School of Business at the University of Texas at Austin.
