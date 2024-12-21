@@ -1,6 +1,6 @@
 **Data-Driven Revitalization: Transforming New-Wheels Sales and Customer Satisfaction**
 
-![New Wheels](assets/New Wheels.png)
+![New Wheels](assets/New%20Wheels.png)
 
 
 **Business Context**
