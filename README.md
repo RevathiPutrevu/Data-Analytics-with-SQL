@@ -12,7 +12,7 @@ A lot of people in the world share a common desire: to own a vehicle. A car or a
 
 New-Wheels sales have been dipping steadily in the past year, and due to the critical customer feedback and ratings online, there has been a drop in new customers every quarter, which is concerning to the business. The CEO of the company now wants a quarterly report with all the key metrics sent to him so he can assess the health of the business and make the necessary decisions.
 
-As a data analyst, the objective is to answer an array of questions from the executive level and provide insights and recommendations to the business using the data. 
+As a Data Analyst, the objective is to answer an array of questions from the executive level and provide insights and recommendations to the business using the data. 
 
  
 **Data Description**
