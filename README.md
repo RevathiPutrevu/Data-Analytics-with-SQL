@@ -26,3 +26,10 @@ Attributes on orders and shipments, such as when the order was shipped and recei
 **Data Set**
 
 The dataset used for the analysis is a part of the [Data Analytics Essentials](https://www.mygreatlearning.com/data-analytics-essentials-online-course) certification course offered by the McCombs School of Business at the University of Texas at Austin.
+
+**Solution Approach**
+
+The solution approach to the business probelm starts by addressing some of the important questions regarding **cutomer demographics**, **top vehicles preferred by the customers**, **the quarter-over-quarter change in order revenue**, **customerst atisfatcion** , **average shipping time** etc. 
+
+Based on the analysis, insights and recommendations have been provided to the business to improve their revenue while enhacing the customer satisfaction. 
+
