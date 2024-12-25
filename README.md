@@ -29,7 +29,14 @@ The dataset used for the analysis is a part of the [Data Analytics Essentials](h
 
 **Solution Approach**
 
-The solution approach to the business probelm starts by addressing some of the important questions regarding **cutomer demographics**, **top vehicles preferred by the customers**, **the quarter-over-quarter change in order revenue**, **customerst atisfatcion** , **average shipping time** etc. 
+The solution approach to the business probelm starts by addressing some of the important questions on **cutomer demographics**, **top vehicles preferred by the customers**, **the quarter-over-quarter change in order revenue**, **customer satisfatcion** , **average shipping time** etc. 
 
-Based on the analysis, insights and recommendations have been provided to the business to improve their revenue while enhacing the customer satisfaction. 
+Based on the analysis, insights and recommendations have been provided to the business to improve their revenue while enhacing the customer satisfaction.
+
+All project deliverables, including the data dictionary, SQL queries, and detailed recommendations, are organized and available as separate files in the project folder
+
+
+**Note 1**: SQL Playground (SQLite) has been used to excute all the SQL queries in this project and the dataset has been preloaded in the SQL playground.
+
+**Note 2** : This project has been done as a Capstone project as a part of the online certification course offered by **Texas McCombs School of Business** in collaboration with **Great Learning**. 
 
