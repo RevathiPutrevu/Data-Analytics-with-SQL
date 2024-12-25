@@ -29,7 +29,7 @@ The dataset used for the analysis is a part of the [Data Analytics Essentials](h
 
 **Solution Approach**
 
-The solution approach to the business probelm starts by addressing some of the important questions on **cutomer demographics**, **top vehicles preferred by the customers**, **the quarter-over-quarter change in order revenue**, **customer satisfatcion** , **average shipping time** etc. 
+The solution approach to the business probelm starts by addressing some of the important questions on **customer demographics**, **top vehicles preferred by the customers**, **the quarter-over-quarter change in order revenue**, **customer satisfaction** , **average shipping time** etc. 
 
 Based on the analysis, insights and recommendations have been provided to the business to improve their revenue while enhacing the customer satisfaction.
 
